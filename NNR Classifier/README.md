@@ -3,7 +3,7 @@
 ## Overview
 This project implements a **Nearest Neighbors in Radius (NNR) classifier**, a variation of KNN where classification is based on neighbors within a fixed radius.
 
-## Visualisation
+## Visualization
 ![output](./readme-images/nnr-description.png)
 
 
