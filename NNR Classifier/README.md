@@ -23,12 +23,6 @@ This project implements a **Nearest Neighbors in Radius (NNR) classifier**, a va
 ### 5. Evaluation
 - Computes classification accuracy.
 
-## Usage
-Run the script with dataset paths specified in `config.json`:
-```bash
-python nnr_classifier.py
-```
-
 ## Dependencies
 - Python
 - NumPy
